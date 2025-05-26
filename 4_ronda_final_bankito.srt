@@ -7,7 +7,7 @@
 Tendremos una tabla de bingo fuera de lo comun
 
 3
-00:00:05,800 --> 00:00:8,900
+00:00:05,800 --> 00:00:08,900
 ahora con muertes y logros
 
 4
