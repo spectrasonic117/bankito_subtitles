@@ -1,0 +1,23 @@
+1
+00:00:00,800 --> 00:00:04,400
+¡Cambio de formato! Ahora tendrán equipos.
+
+2
+00:00:04,400 --> 00:00:10,500
+Reúnanse con su equipo y dispondrán de 5 minutos para crear su estrategia. 
+
+3
+00:00:10,500 --> 00:00:15,300
+Presionen la tecla B para ver más información de su tabla. 
+
+4
+00:00:15,300 --> 00:00:20,000
+¡Ay, el Discord está permitido, no como en otros juegos! JE JE! 
+
+5
+00:00:20,000 --> 00:00:23,900
+¡Mucha suerte y espero y no haya equipos incómodos! 
+
+6
+00:00:23,900 --> 00:00:27,200
+¡Un besito! JA JA

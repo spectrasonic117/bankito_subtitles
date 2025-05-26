@@ -1,0 +1,23 @@
+1
+00:00:00,800 --> 00:00:03,800
+Bueeeeno!, vayamos a la siguiente ronda. 
+
+2
+00:00:03,800 --> 00:00:08,800
+Tendremos tres ganadores, cada uno de diferente dificultad.
+
+3
+00:00:08,800 --> 00:00:13,800
+Recuerden que si son los primeros en completar una línea horizontal, 
+
+4
+00:00:13,800 --> 00:00:21,200
+vertical, diagonal o la cartilla completa, recibirán puntos extra. 
+
+5
+00:00:21,200 --> 00:00:26,600
+Por último, aquí sí competirán por un premio a lo que vienen. 
+
+6
+00:00:26,600 --> 00:00:33,200
+Ya veo que algunos no tuvieron un compromiso de última hora, JA JA!!.
