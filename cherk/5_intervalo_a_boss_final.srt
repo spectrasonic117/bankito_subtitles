@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:04,600
-JA JA JA Que divertudo estuvo todo jeje
+JA JA JA Que divertido estuvo todo jeje
 
 2
 00:00:04,600 --> 00:00:07,000
@@ -16,4 +16,4 @@ es hora de demostrar que les he enseñado bien a pelear
 
 5
 00:00:13,700 --> 00:00:18,000
-a ver quien cae primero, pendejos 
+a ver quien cae primero pendejos 
